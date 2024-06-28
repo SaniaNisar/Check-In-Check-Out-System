@@ -12,7 +12,6 @@ This repository contains an implementation of a UDP-based Check In/Check Out sys
 # 📂 Files 
 * server.c: The server-side program that handles incoming UDP packets, processes check-in/check-out requests, and manages the attendance database.
 * client.c: The client-side program that sends check-in/check-out requests to the server.
-* attendance.txt: A text file that maintains the current attendance of the students.
 
 # 🛠️ Requirements 
 * GCC compiler (for compiling the C programs)
